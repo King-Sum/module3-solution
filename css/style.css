@@ -127,7 +127,7 @@ p.intro {
 
   /* Home Page */
   #chicken-tile, #beef-tile, #sushi-tile {
-    width: 300px;
+    width: auto;
     margin: 0 auto 10px;
   }
 }
